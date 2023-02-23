@@ -1,4 +1,4 @@
-from .huffman import Huff
+from hutter.huffman.huffman import Huff
 
 
 def read_data(length=100):
